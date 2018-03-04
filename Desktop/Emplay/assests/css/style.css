@@ -40,6 +40,14 @@ body {
     color: #586069;
 }
 
+.results .card .card-header {
+    color: #586069;
+}
+
+.results .card p {
+    color: #586069;
+}
+
 .results .card span {
     color: #0366d6;
 }
