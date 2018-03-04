@@ -1,0 +1,34 @@
+body {
+  padding-top: 2rem;
+  background-color: #ffffff;
+  font-family: 'Lato', sans-serif; }
+
+.search h2 {
+  color: #586069;
+  font-size: 45px;
+  margin-bottom: 20px; }
+.search img {
+  height: 250px;
+  width: 300px; }
+.search input {
+  width: 20%;
+  border-radius: 3px;
+  border-color: #f1b287;
+  border: 2px solid #f1b287;
+  padding: 5px;
+  outline: none;
+  transition: width 0.8s ease-in-out; }
+  .search input:focus {
+    width: 40%; }
+
+.results {
+  margin-top: 5em; }
+  .results .card {
+    border-color: #d1d5da !important;
+    border-radius: 3px;
+    border: 1px solid #e1e4e8 !important;
+    color: #586069 !important; }
+    .results .card span {
+      color: #0366d6 !important; }
+
+/*# sourceMappingURL=style.css.map */
