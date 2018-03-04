@@ -1,6 +1,6 @@
-# BMTC-scrapper
+# Emplay - Github Repo Finder
 
-Scraping the data from BMTC website
+Search your favorite Github Repositiry
 
 ## Getting Started
 
@@ -9,27 +9,18 @@ Run the below lines to run the project.
 ### Prerequisites
 
 ```
-git clone https://github.com/nitingupta220/BMTC-scrapper.git
+git clone https://github.com/nitingupta220/Emplay.git
 
 ```
-Go into the BMTC-scrapper and then into scrapper
+Go into the Emplay folder
 
-``` 
-pip install -r requirements.txt
-npm install live-server -g
-or 
-sudo npm install live-server -g
-
-```
-Go into scrapper
 
 ### Run
 ```
-python scrapper.py
+index.html
+
 ```
-### And then came out of the scrapper to the main folder and run 
-```
-live-server
-```
-It will open your index.html file and you can see the data then.
+### And then search for yor repositories
+
+
 
