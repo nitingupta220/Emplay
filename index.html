@@ -25,7 +25,7 @@
         <img src="assests/images/Octocat.png" alt="">
         <h2>Search for your favourite Github repositories</h2>
         <form>
-            <input type="text" name="Search" ng-model="searchText" ng-required="true">
+            <input type="text" name="Search" ng-model="searchText" ng-required="true" ng-change="inputChanged()" ng-model-options="{debounce: 300}">
         </form>
     </div>
     <div class="container results">
